@@ -65,4 +65,5 @@ gem 'slim-rails'
 gem 'html2slim'
 gem 'bootstrap'
 gem 'rb-readline'
+gem 'bcrypt', '~> 3.1.7'
 
